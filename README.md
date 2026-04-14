@@ -1,6 +1,4 @@
 # Qual é o Estado?
-
-# Luta
 (Descrição a ser escrita)
 
 # Guia para programação
