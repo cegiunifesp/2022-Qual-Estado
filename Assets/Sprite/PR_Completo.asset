@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PR_Completo
+  m_Rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 719
+    height: 486
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    f1adf3f8aad51e94bbadaf9fa25e52a7: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 3
+    texture: {fileID: 2800000, guid: 374adaf78bfb6fa4c81dfa5871cb202c, type: 3}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 6
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 4
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 000001000200020001000300
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 4
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 1
+        offset: 0
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 1
+        offset: 8
+        format: 0
+        dimension: 4
+      - stream: 1
+        offset: 24
+        format: 10
+        dimension: 4
+      m_DataSize: 208
+      _typelessdata: 7b1466c01f851b40000000007b1466401f851b40000000007b1466c01f851bc0000000007b1466401f851bc00000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f00000000000000000000000000000000000000000000000000000000
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 719
+      height: 486
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 0
+    uvTransform: {x: 100, y: 359.5, z: 100, w: 243}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 3
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 0.705, y: -1.4}
+    - {x: 0.745, y: -1.36}
+    - {x: 0.945, y: -1.18}
+    - {x: 1.095, y: -1.26}
+    - {x: 1.245, y: -1.23}
+    - {x: 1.245, y: -1.2099999}
+    - {x: 1.625, y: -1.22}
+    - {x: 1.8349999, y: -1.38}
+    - {x: 1.885, y: -1.39}
+    - {x: 2.135, y: -1.23}
+    - {x: 2.365, y: -1.17}
+    - {x: 2.435, y: -1.18}
+    - {x: 2.655, y: -1.17}
+    - {x: 2.7749999, y: -1.0799999}
+    - {x: 2.905, y: -0.9}
+    - {x: 2.915, y: -0.79999995}
+    - {x: 2.885, y: -0.78}
+    - {x: 2.835, y: -0.72999996}
+    - {x: 3.0449998, y: -0.71999997}
+    - {x: 3.105, y: -0.68}
+    - {x: 3.2649999, y: -0.53}
+    - {x: 3.2649999, y: -0.48}
+    - {x: 3.195, y: -0.42}
+    - {x: 3.105, y: -0.42}
+    - {x: 2.955, y: -0.26999998}
+    - {x: 2.735, y: -0.25}
+    - {x: 2.735, y: 0.049999997}
+    - {x: 2.715, y: 0.07}
+    - {x: 2.5549998, y: 0.16}
+    - {x: 2.375, y: 0.28}
+    - {x: 2.315, y: 0.29}
+    - {x: 2.315, y: 0.59999996}
+    - {x: 2.305, y: 0.66999996}
+    - {x: 2.205, y: 0.87}
+    - {x: 2.115, y: 0.95}
+    - {x: 1.995, y: 0.98999995}
+    - {x: 1.885, y: 1}
+    - {x: 1.875, y: 1.09}
+    - {x: 1.8349999, y: 1.17}
+    - {x: 1.8449999, y: 1.43}
+    - {x: 1.545, y: 1.6899999}
+    - {x: 1.2149999, y: 1.68}
+    - {x: 0.935, y: 1.73}
+    - {x: 0.765, y: 1.75}
+    - {x: 0.375, y: 1.9699999}
+    - {x: 0.315, y: 1.9699999}
+    - {x: 0.024999999, y: 1.93}
+    - {x: -0.125, y: 1.99}
+    - {x: -0.345, y: 2.03}
+    - {x: -0.505, y: 2.04}
+    - {x: -0.91499996, y: 2.04}
+    - {x: -1.225, y: 1.9799999}
+    - {x: -1.285, y: 1.9499999}
+    - {x: -1.4549999, y: 1.74}
+    - {x: -1.7149999, y: 1.6899999}
+    - {x: -1.8249999, y: 1.54}
+    - {x: -1.885, y: 1.3}
+    - {x: -2.125, y: 1.05}
+    - {x: -2.185, y: 0.88}
+    - {x: -2.205, y: 0.76}
+    - {x: -2.385, y: 0.56}
+    - {x: -2.345, y: 0.22999999}
+    - {x: -2.395, y: 0.099999994}
+    - {x: -2.385, y: -0.26999998}
+    - {x: -2.595, y: -0.58}
+    - {x: -2.595, y: -0.68}
+    - {x: -2.585, y: -0.75}
+    - {x: -2.5049999, y: -0.82}
+    - {x: -2.205, y: -0.81}
+    - {x: -1.9749999, y: -0.97999996}
+    - {x: -1.9449999, y: -1.23}
+    - {x: -1.8449999, y: -1.37}
+    - {x: -1.805, y: -1.43}
+    - {x: -1.435, y: -1.43}
+    - {x: -1.385, y: -1.4699999}
+    - {x: -1.3149999, y: -1.51}
+    - {x: -0.905, y: -1.52}
+    - {x: -0.575, y: -1.62}
+    - {x: -0.195, y: -1.68}
+    - {x: -0.13499999, y: -1.74}
+    - {x: 0.085, y: -1.7199999}
+    - {x: 0.195, y: -1.76}
+    - {x: 0.255, y: -1.76}
+    - {x: 0.315, y: -1.7199999}
+    - {x: 0.305, y: -1.53}
+    - {x: 0.475, y: -1.41}
+  m_Bones: []
+  m_SpriteID:
