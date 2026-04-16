@@ -221,7 +221,7 @@ public class GameManager : MonoBehaviour
 
 	private void StartVideo()
 	{
-		vid.url = Path.Combine(Application.streamingAssetsPath, currentQuestion.videoName + ".mp4");
+		vid.url = Path.Combine(Application.streamingAssetsPath, currentQuestion.videoName + ".webm");
 		playVideo();
 	}
 
