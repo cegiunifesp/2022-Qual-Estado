@@ -1,11 +1,11 @@
 # Qual é o Estado?
 <img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/218a8c98-5272-4f08-88fa-ff1f17f3443a" />
 
-Vamos aprender libras? Teste seu conhecimento dos estados brasileiros na língua brasileira de sinais.
+Vamos aprender Libras? Teste seu conhecimento dos estados brasileiros na língua brasileira de sinais.
 # Guia para programação
-Abaixo estão algumas indicações de como deve ser escrito o código com a finalidade de garantir clareza, eficiência e organização. Ajude na legibilidade do código que muito provávelmente terá de ser alterado no futuro.
+Abaixo estão algumas indicações de como deve ser escrito o código com a finalidade de garantir clareza, eficiência e organização. Ajude na legibilidade do código que muito provavelmente terá de ser alterado no futuro.
 
-VERSÃO DO UNITY: 2019.4.26f1 (Obs: Usar versão antiga, atual apresenta problemas de compatibilidade com algumas bibliotecas antigas)
+VERSÃO DO UNITY: 2019.4.41f2 (Obs: Usar versão antiga, atual apresenta problemas de compatibilidade com algumas bibliotecas antigas)
 
 ## Dicas gerais
 * Utilize funções pontuais que atinjam um objetivo consistentemente: o requisito pode mudar, mas com um código bem preparado você poderá alterar apenas parâmetros para atingir um novo objetivo, sem necessidade de reescrever o código.
