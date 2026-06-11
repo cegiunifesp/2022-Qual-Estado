@@ -1,6 +1,7 @@
 # Qual é o Estado?
-(Descrição a ser escrita)
+<img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/218a8c98-5272-4f08-88fa-ff1f17f3443a" />
 
+Vamos aprender libras? Teste seu conhecimento dos estados brasileiros na língua brasileira de sinais.
 # Guia para programação
 Abaixo estão algumas indicações de como deve ser escrito o código com a finalidade de garantir clareza, eficiência e organização. Ajude na legibilidade do código que muito provávelmente terá de ser alterado no futuro.
 
